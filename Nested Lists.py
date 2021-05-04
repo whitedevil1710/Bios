@@ -6,7 +6,7 @@ for i in range (s):
     f=float(input())
     l.append([n,f])
     d.append(f)
-d=sorted(set(d))
+d=sorted((d))
 m=d[1]
 n=[]
 for j in l:
